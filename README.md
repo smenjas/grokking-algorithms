@@ -1,6 +1,6 @@
 # Grokking Algorithms Notes
 
-My notes from the book Grokking Algorithms.
+My notes from the book [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms).
 
 ## License
 
